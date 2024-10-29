@@ -1,7 +1,14 @@
 {
-    "item1": {
-        "name": "Sword",
-        "value": 100,
-        "imageUrl": "https://link-cua-anh.png"
-    }
+    "item1": { "imageUrl": "rbxassetid://1", "value": 10 },
+    "item2": { "imageUrl": "rbxassetid://2", "value": 20 },
+    "item3": { "imageUrl": "rbxassetid://3", "value": 30 },
+    "item4": { "imageUrl": "rbxassetid://4", "value": 40 },
+    "item5": { "imageUrl": "rbxassetid://5", "value": 50 },
+    "item6": { "imageUrl": "rbxassetid://6", "value": 60 },
+    "item7": { "imageUrl": "rbxassetid://7", "value": 70 },
+    "item8": { "imageUrl": "rbxassetid://8", "value": 80 },
+    "item9": { "imageUrl": "rbxassetid://9", "value": 90 },
+    "item10": { "imageUrl": "rbxassetid://10", "value": 100 },
+    "item11": { "imageUrl": "rbxassetid://11", "value": 110 },
+    "item12": { "imageUrl": "rbxassetid://12", "value": 120 }
 }
